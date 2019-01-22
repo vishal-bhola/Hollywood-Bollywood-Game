@@ -1,5 +1,6 @@
 # Hollywood-Bollywood-Game
-We used to play this game in our childhood.
+This is the game we used to play this game in our childhood.
+
 In this game Player1 will give some of the letters of a movie to the Player2 and by looking at the letters given by Player1, Player2 has to guess the movie name 
 
 ## Instructions 
